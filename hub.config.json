@@ -1,0 +1,14 @@
+{
+  "name": "Cierre de Bonificaciones",
+  "description": "Dashboard interactivo que procesa un Excel exportado desde el CRM para calcular el scoring y las bonificaciones de forma inmediata, generando automaticamente el reporte de cierre de ventas mensual para Finanzas y los resumenes de validacion para cada vendedor.",
+  "type": "frontend",
+  "capabilities": ["frontend", "file-processing", "excel-export"],
+  "framework": "nextjs",
+  "owner": "melany.etchepare@comunidadfeliz.cl",
+  "team": "Comercial",
+  "version": "1.0.0",
+  "tags": ["bonificaciones", "comercial", "hubspot", "cierre-mensual", "crm"],
+  "routes": {
+    "main": "/"
+  }
+}
